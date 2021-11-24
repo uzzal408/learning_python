@@ -1,0 +1,926 @@
+1,GULSHAN,"Dr. Lutful Karim 
+",Chest,DTCD,,Dhaka,1711405550,,dr.lutfulkarim123@gmail .com,30,A              ," 120,000 "
+2,GULSHAN,Dr. Barkat Ullah ,Chest ,"MBBS,DTCD",NIDCH,Dhaka,1711541031,,barkatullah.tuhin@gmail.com,10,B," 20,000 "
+3,GULSHAN,"Dr. Md. Rohmatullah Khan 
+",Chest,"DTCD,FCCP ",NIDCH,Dhaka,1912582088,28826677,,10,C," 5,000 "
+4,GULSHAN,"Dr. Salma Akter,
+",Chest Med., DTCD,NIDCH,Dhaka,1711467004,,,10,C              ," 5,000 "
+5,GULSHAN,"Dr. Syed Aminul Islam (Maruf),
+",Cardiologist , MD.,NICVD,Dhaka,1819278691,,,10,B," 5,000 "
+6,GULSHAN,"Brig. Gen. Dr. SM Mamunur Rahman
+                       ",Cardiologist ,FCPS,Ex. CMH,Dhaka,1715056185,258150948,,10,C              ," 5,000 "
+7,GULSHAN,Dr. Iftequar Alam,Cardiologist ,"D-Card, MD",NICVD,Dhaka,1717536054,1992222777,,10,C              ," 5,000 "
+8,GULSHAN,"LT.Col.Dr.Nurun Nahar Hossen 
+               ",Gynaecologist,DGO, EX CMH ,Dhaka,1841480000,258150948,,10,B," 5,000 "
+9,GULSHAN,Dr. Nuzhat Tasnim,Gynaecologist,FCPS,NICRH,Dhaka,1912740991,1908786786,tasnimnuzhat16@gmail.com,10,B," 5,000 "
+10,GULSHAN,Dr. Nargis Akter ,Gynaecologist,"FCPS, MS, DGO, FICS",BSMMU,Dhaka,1716986684,258150948,,20,A              ," 10,000 "
+11,GULSHAN,Dr. Faria Rashid,Gynaecologist,FCPS,Aichi Medical College,Dhaka,1712095028,1992222777,,10,B," 10,000 "
+12,GULSHAN,"Dr. Mashfiqul Hasan 
+",Endocrinology,"MCPS, MD.",SSMCH,Dhaka,1611443345,1611443345,,10,B," 10,000 "
+13,GULSHAN,"Dr. Mohammad. Mahmuduzzaman 
+, ",Gastroentrology,MD,SSMCH,Dhaka,1711709998,29897222,zaman.mahmud@gmail.com,20,A              ," 20,000 "
+14,GULSHAN,Dr. R N Majumder     ,Gastroentrology,MD,DMCH,Dhaka,1819255811,258150948,mmajumder@gmail.com,10,B," 10,000 "
+15,GULSHAN,Dr. Govinda Gain ,Gastroentrology,FCPS,SRGIH,Dhaka,1913367734,,,10,B," 5,000 "
+16,GULSHAN,Dr.Atiqul Islam ,Gastroentrology,MD,SRGIH,Dhaka,1712400006,1908786786,,10,C              ," 5,000 "
+17,GULSHAN,Dr. Sayedul Arefin ,Gastroentrology,MD,SRGIH,Dhaka,1716405986,,,10,B," 10,000 "
+18,GULSHAN,Prof.Dr. Faruque Ahmed                         ,Gastroentrology,MD,SRGIH,Dhaka,1819221115,258150948,,10,A              ," 5,000 "
+19,GULSHAN,Dr. Md. Nuruzzaman,Gastroentrology,"FCPS, MD",SRGIH,Dhaka,1711247696,,drmnzaman82gmail.com,10,C              ," 5,000 "
+20,GULSHAN,Dr. Mohammed Masudur Rahman,Gastroentrology,MD,SRGIH,Dhaka,1715426422,1908786786,,10,C              ," 5,000 "
+21,GULSHAN,Dr. Abdullah-Al-Quayyum,Gastroentrology,MD,SRGIH,Dhaka,1741447744,29897222,dr.quayyum@gmail.com,10,A              ," 20,000 "
+22,GULSHAN,Dr.Al Mahmood Appolo,Gastroentrology,MD,SRGIH,Dhaka,1711129167,,,10,C              ," 5,000 "
+23,GULSHAN,Dr.Md. Aminul Islam,Gastroentrology,MD,SRGIH,Dhaka,1711662945,29897222,,10,C              ," 5,000 "
+24,GULSHAN,"Dr. Jahangir  Alam 
+",Gastroentrology,MD,Shahid Sarwardi M/C,Dhaka,1712563828,29852501,,10,C              ," 5,000 "
+25,GULSHAN,Dr.Subroto Podder,Gastroentrology,FCPS,SRGIH,Dhaka,1727506050,29852501,,10,C              ," 5,000 "
+26,GULSHAN,"Dr. G.M Abdus Salam, 
+",Oncologist,"MS, ",NICRH,Dhaka,1715090807,29880078,,10,C              ," 5,000 "
+27,GULSHAN, Dr. Mohammad Asaduzzaman Biddut,Oncologist,"MBBS,MD",NICRH,Dhaka,1775540335,29880078,biddut_medicaloncology@yahoo.com,10,C              ," 5,000 "
+28,GULSHAN,Prof Dr. Md. Mahabubur Rahman,Oncologist,M-Phil,NICRH,Dhaka,1911840095,29880078,drmahabubur_87@yahoo.com,10,C              ," 5,000 "
+29,GULSHAN,Dr. Moshiur Rahman ,Oncologist,M-Phil,NICRH,Dhaka,1711471281,29880078,moshiur67@gmail.com,10,C              ," 5,000 "
+30,GULSHAN,Dr. S M Nazmul Hasan Sagar,Oncologist,MD,NICRH,Dhaka,1731474087,29880078,,10,C              ," 5,000 "
+31,GULSHAN,Dr. A T M Kamrul Hasan ,Oncologist,MD,NICRH,Dhaka,1712245944,29880078,,10,C              ," 5,000 "
+32,GULSHAN,Dr.Md. Jahangir Kabir,Surgery Oncologist,MS,NICRH,Dhaka,1819275151,29880078,,10,C              ," 5,000 "
+33,GULSHAN,Dr. Md. Rofiqul Islam,Oncologist,"MBBS, MD",NICRH,Dhaka,1712078882,29880078,,10,C              ," 5,000 "
+34,GULSHAN,Dr. Tania Sultana,Oncologist,FCPS,NICRH,Dhaka,1674937120,29880078,taniaaa.sultana@gmail.com,10,A              ," 20,000 "
+35,GULSHAN,Dr. Tanvir Hasan Shoaib,Surgical Oncology,"MBBS, MS",NICRH,Dhaka,1717448622,29880078,dr.shoaib30@gmail.com,10,C              ," 5,000 "
+36,GULSHAN,Dr. Nahid Hossen,Oncologist, MD,NICRH,Dhaka,1710574854,29880078,nahid003@yahoo.com,20,A              ," 20,000 "
+37,GULSHAN,"Dr. Kamrun Nahar Tania,",Oncologist, MD,NICRH,Dhaka,1714092185,29880078,kamrunmonir@gmail.com,20,A              ," 20,000 "
+38,GULSHAN,Dr. Anawer Hosen,Oncologist,MD,NICRH,Dhaka,1711023015,29880078,dranwar_1805@yahoo.com,10,B," 10,000 "
+39,GULSHAN,Dr. Rokhsana Akhtar,Oncologist, MBBS,NICRH,Dhaka,1627413961,29880078,,15,A              ," 10,000 "
+40,GULSHAN,Dr. Ranada Prasad Roy,Oncologist, M.PHIL,NICRH,Dhaka,1716099471,29880078,rproy11@gmail.com,10,B," 10,000 "
+41,GULSHAN,Dr. Rowsan Ara Begum,Oncologist, FCPS,NICRH,Dhaka,1552342116,29880078,,10,C              ," 5,000 "
+42,GULSHAN,Dr. Mosfika Rahman ,Oncologist,MD,NICRH,Dhaka,1711867574,29880078,,10,C              ," 5,000 "
+43,GULSHAN,Dr.Abdulla Al Noman ,Oncologist,MD,NICRH,Dhaka,1711003836,29880078,dr.pavel@hotmail.com,10,B," 10,000 "
+44,GULSHAN,Dr.Ahsan Habib,Oncologist, MS,NICRH,Dhaka,                     ,29880078,,10,B," 10,000 "
+45,GULSHAN,Dr.Mostofa Kamal,Oncologist,M-PHIL,NICRH,Dhaka,1711365023,29880078,,10,C              ," 5,000 "
+46,GULSHAN,Dr.Shahana Parvin,Gynae Oncologist,"MBBS,FCPS",NICRH,Dhaka,1819299334,29880078,,10,C              ," 5,000 "
+47,GULSHAN,Dr. Mst.Farhana Tarannum Khan,Gynae Oncologist,"FCPS, MS",NICRH,Dhaka,1711969950,29880078,,10,C              ," 5,000 "
+48,GULSHAN,Dr. Md. Shah Alam ,ORTHOPEDICS,D-Ortho,"Life Line Med. Ser.  
+Mohakali
+",Dhaka,1715390097,28826677,shah.alam26@gmail.com,10,B," 5,000 "
+49,GULSHAN,"Dr Ziaul Hqa,",ORTHOPEDICS,MS,Ex. CMH,Dhaka,1711544664,29830531,,10,A              ," 20,000 "
+50,GULSHAN,"Dr.Rabbi  Mahmud,",ORTHOPEDICS,D-Ortho,Holy Family ,Dhaka,1710010880,29897222,,10,C              ," 5,000 "
+51,GULSHAN,"Dr. Shaila Ahmed 
+",Dermatologist,DDV,Holy Family ,Dhaka,1711542596,29897222,,10,B," 10,000 "
+52,GULSHAN,Dr. Wahida Khan Chowdhury,Dermatologist,"DDV, FCPS",Shhabuddin Medical College & Hospital,Dhaka,1713017501,1992222777,,10,B," 10,000 "
+53,GULSHAN,Dr. Jhumu Khan,Leser,"MBBS, MPH, MS",N/A,Dhaka,1711660938,,info@lasermedicalbd.com,10,B," 10,000 "
+54,GULSHAN,Dr. Sabbir Ahmed Dhali ,Neurology, MD,DMCH,Dhaka,1720015583,29897222,dr.sabbirdhali@gmail.com,15,A              ," 30,000 "
+55,GULSHAN,"Dr. Brig. Gen. ABM Seed Hossain
+                   ",Neurology,DCN,CMH,Dhaka,1841480000,258150948,,10,C              ," 5,000 "
+56,GULSHAN,Dr. Md. Abdul Razzak ,Nephrology,MD,SRGIH,Dhaka,1911018950,258150948,,10,C              ," 5,000 "
+57,GULSHAN,Prof. Dr. Mostofa                          , Medicine, M-PHIL,Ex CMH DHAKA  ,Dhaka,1712200118,,,10,C              ," 5,000 "
+58,GULSHAN,Lt.Col.Dr. A.K.M Azizur Rahman, Medicine, MCPS,Ex. CMH,Dhaka,1912004373,,,10,B," 20,000 "
+59,GULSHAN,"Dr. Md. Zakaria Mawla Chowdhury,
+", Medicine,FCPS,DMCH,Dhaka,1716457024,,,10,C              ," 5,000 "
+60,GULSHAN,Dr.Mohammad Anisur Rahman,Pain Medicine, MD FIPM,N/A,Dhaka,1799942792,1733888388,anisrehman722@gmail.com,15,A              ," 30,000 "
+61,GULSHAN,Dr.Md.Jobayer Hossain ,Pain Medicine,"MD, FIPM",N/A,Dhaka,1626666333,1733888388,thbissnote5@gmail.com,15,A              ," 30,000 "
+62,GULSHAN,Dr. Dolilur Rahman,Pain Medicine,", MHS",N/A,Dhaka,1751871614,,,15,A              ," 30,000 "
+63,GULSHAN,"Prof. Dr. Kamal Sayeed Ahmed Chowdhury
+",Internal Medicine,"FCPS, MACP.",DMCH,Dhaka,1841480000,258150948,,10,C              ," 5,000 "
+64,GULSHAN,Dr. SK Serjina Anwar,Paediatric,"FCPS, MD",BSMMU,Dhaka,1992222555,1992222777,,10,C              ," 5,000 "
+65,GULSHAN,"Prof. Dr. Rafiqul Haque
+",Paediatric,FRCP,Holi Family Redcresent M.C.H,Dhaka,1819278691,,,10,C              ," 5,000 "
+66,GULSHAN,"Dr. Sabina Karim 
+",Paediatric,FCPS.,KGH,Dhaka,1912393308,29897222,,10,C              ," 5,000 "
+67,GULSHAN,Dr. Hasan Shahriar Kallol,Surgery,"FCPS, MRCPS",NICRH,Dhaka,1992222777,1992222555,,10,C              ," 5,000 "
+68,GULSHAN,Dr. Asifur Rahman Bijou,Neuro Surgery,"MBBS, MS",BSMMU,Dhaka,1819463005,1992222777,,10,C              ," 5,000 "
+69,GULSHAN,Dr. A Bivas Bikash Baral  ,Physical Medicine,FCPS, NINS ,Dhaka,1717493018,1908786786,,10,C              ," 5,000 "
+70,GULSHAN,"Dr. Timir Debnath, .
+",ENT,"MCPS, FCPS","SAHIC,Mohakhali",Dhaka,1712272238,1992222777,,10,B," 10,000 "
+71,GULSHAN,Dr.Md. Khalid mahmud ,ENT,"MBBS, MS",NICRH,Dhaka,1617703773,1611443345,,10,C              ," 5,000 "
+72,GULSHAN,Dr. Al-Belal ,G.P," MBBS,PGT ",,Dhaka,1712027320,,,10,B," 20,000 "
+73,GULSHAN,"Dr. ANM Monowarul Kadir Bitu, ",Card,"D-Card, ",Metro Politan Hospital,Dhaka,1711478947,9830531,mmcl-nc@yahoo.com,10,C," 10,000 "
+74,GULSHAN,"Dr. Mofassel Ahmed, ",Card Sur,MS,ZHSWMC GULSHAN,Dhaka,1819131717,5560030,,10,C," 10,000 "
+75,GULSHAN,Dr. SM Emran Ali,Dermatology,CCD,ICDDRB,Dhaka,1715546373,,,10,B," 5,000 "
+76,GULSHAN,"Dr. Tasruba Chowdhury, ",Dermatology,DDV ,BSMMU,Dhaka,1718237035,9830531,info@mmclbd.net,15,A," 5,000 "
+78,GULSHAN,Dr. Chowdhury Habibur Rahman ,Surgery,FRCH,,Dhaka,1846888906,9894776,,10,A," 10,000 "
+79,GULSHAN,Dr. Mehedi Hasan,Surgery ,"FCPS,,MS, ",Kurmitola Gen Hospital,Dhaka,1711454493,9851958,,10,B," 20,000 "
+80,GULSHAN,"Dr. Abdul Kadir Khan, ",Surgery,FCPS,Metro Politan Hospital,Dhaka,1711393218,9830531,mmcl-nc@yahoo.com,10,A," 10,000 "
+81,GULSHAN,Dr. Rahmatul Bari,chest,DTCD,ZHSWMC GULSHAN,Dhaka,1819226188,5560030,rahnatulbari09@gmail.com,10,B," 35,000 "
+82,GULSHAN,Dr. Tanvir Ahmed Chowdhury ,Chest,DTCD,Galib Medical Hall,Dhaka,1777915509,,sakibjmc3@gmail.com,15,B," 5,000 "
+83,GULSHAN,Dr Raihan Kamal Galib,chest,DTCD,ZHSWMC GULSHAN,Dhaka,1715164923,5560030,raihankamalgalib@gmail.com,10,B," 10,000 "
+84,GULSHAN,Dr. Md. Mohsin Bhuiyan,Dentist , PHD ,,Dhaka,1819249009,,info@bhuiyanorthodontic.com,15,A," 10,000 "
+85,GULSHAN,Dr. Monowar Hossain,Dental,"BDS, ",,Dhaka,1713014599,,shamim631@yahoo.com,10,B," 5,000 "
+86,GULSHAN,"Dr. Md Al Islam, ",Dental,BDS,,Dhaka,1552400044,,house-dental@yahoo.com,10,A," 10,000 "
+87,GULSHAN,"Dr. Kazi R Mahbub, ",Dental,BDS,,Dhaka,1819223424,,info.biodent@gmail.com,10,A," 100,000 "
+88,GULSHAN,"Dr. Mamunur Rashid, ",Dental,PHD,,Dhaka,1784397850,,drmamun22@yahoo.com,10,B," 5,000 "
+89,GULSHAN,Dr Husne Kuner Osmany ,ENT,FCPS,DMC,Dhaka,1819227009,9851958,,10,A," 10,000 "
+90,GULSHAN,"Dr. Md. Rakib Hossain, ",ENT,DLO,United Hospital,Dhaka,28836000,10666,,10,B," 10,000 "
+91,GULSHAN,Dr Afroja Khanom,ENT,MS,DMC,DHAKA,1819227009,9851958,,12,B," 10,000 "
+92,GULSHAN,"Dr. Md Tariqul Islam, ","ENT, ",MS,NICRH,Dhaka,1714216559,,,10,A," 50,000 "
+93,GULSHAN,Dr. Col. (Rtd.) A L Mollik ,Medicine,PHD,MOHAKHALI DOHS,Dhaka,1776371116,,,10,B                  (," 10,000 "
+94,GULSHAN,Dr. Goutom Podder,Medicine,MBBS,ICDDRB,Dhaka,1712094124,,,10,B," 5,000 "
+95,GULSHAN,Prof. Dr. Md. Nurul Gani,Medicine,CCD ,Sarwardi Medical College,Dhaka,1620217442,,,10,C," 5,000 "
+96,GULSHAN,Dr. AKM Monirul Islam,Medicine,MBBS,,Dhaka,1819221926,9894776,,20,A," 50,000 "
+97,GULSHAN,Prof. M A Sobur,Medicine,FCPS ,IBN Medical College,Dhaka,1726394071,9851958,,10,B," 20,000 "
+98,GULSHAN,"Dr. Afsana Begum, ",Medicine,FCPS,United Hospital,Dhaka,1819503771,10666,,20,A," 50,000 "
+99,GULSHAN,"Dr. Mehedi Hasan, ",Medicine,FCPS,DMC,Dhaka,1717531717,9830531,,10,B," 15,000 "
+100,GULSHAN,"Dr. Md Parvez Ahmed, ",Medicine,MSC,Sahabuddin Med College,Dhaka,1786280201,9830531,unnotiprosantihospital@yahoo.com,10,B," 10,000 "
+101,GULSHAN,"Dr. Kazi Shahriar Bin Azhar, ",Medicine,CCD,BIRDEM,Dhaka,1689046424,,shahriarazhar@yahoo.com,10,B," 10,000 "
+102,GULSHAN,Dr. Moinuddin Ahmed ,Medicine,DTMH,,Dhaka,1749703034,,,15,A," 20,000 "
+103,GULSHAN,"Dr. MA Basher, ",Medicine,MBBS,,Dhaka,1715222127,,,20,A," 25,000 "
+104,GULSHAN,"Dr. Alamgir Murshedi Rana, ",Medicine,MPH,ICDDRB,Dhaka,1713030328,,,7,B," 20,000 "
+105,GULSHAN,"Dr. Asif Iqbal, ",Medicine,MBBS,SSMCH,Dhaka,1552484154,,,10,C," 5,000 "
+106,GULSHAN,"Dr. Salina Akhtar, ",Medicine,MPH,,Dhaka,1740652545,,,10,B," 10,000 "
+107,GULSHAN,Dr Md Alim ur Rahman,Medicine,MBBS,NIKDU,Dhaka,1534991907,,,10,A," 50,000 "
+108,GULSHAN,"Dr. Md Humayan Alamgir, ",Medicine,MBBS,Metro Politan Hospital,Dhaka,1675085179,9830531,,5,B," 10,000 "
+109,GULSHAN,"Dr. Md. Iqbal Hossain, ", Medicine,MRCP,United Hospital,Dhaka,28836000,10666,,20,A," 50,000 "
+110,GULSHAN,Dr. Nusrat Sultana,Endocrinologist," MD,",DMC,Dhaka,1726427495,9897222,,20,A," 50,000 "
+111,GULSHAN,Dr. Md. Murad Hossain,Hematology,MD,NICRH,Dhaka,1823654642,9830531,,5,C," 5,000 "
+112,GULSHAN,"Dr. Golger Hossain, ",Hematology,MD,NICRH,Dhaka,1841122215,9830531,,10,A," 10,000 "
+113,GULSHAN,Dr. Abdul Malek ,Paediatrician,FCPS ,Green Life Medical College,Dhaka,1711983198,,,15,B," 10,000 "
+114,GULSHAN,Dr. Saila Yasmin Talukder,Paediatrician,MCPS ,Metro Politan Hospital,Dhaka,1711837351,9830531,,20,B," 5,000 "
+115,GULSHAN,Dr Shakil Ahmed,Paediatrician,FCPS,SSMCH,Dhaka,1819218531,9851958,,10,B," 10,000 "
+116,GULSHAN,"Dr. Tania Mahbub, ",Nephrology,"MD, ",United Hospital,Dhaka,1769050520,10666,,15,A," 30,000 "
+117,GULSHAN,"Dr. Enamul Haque, ",Nephrology ,FIN,,Dhaka,1713383962,9851958,,10,B," 10,000 "
+118,GULSHAN,Dr. Badrul Islam Sinha ,Neurologyr,MSC,ICDDRB,Dhaka,1712890172,9830531,bislamdmch@gmail.com,10,A," 5,000 "
+119,GULSHAN,Dr. Masudul Hasan Arup,Rad Onco ,MD ,NICRH,Dhaka,1711189656,9851958,shaikat.mmc@gmail.com,A10,A," 6,000 "
+120,GULSHAN,Dr. Zulfia Zinnat Chow ,Rad Onco, FCPS ,NICRH,Dhaka,1717380052,2280078,,15,B," 5,000 "
+121,GULSHAN,"Dr. ATM Sazzad Hossain,",Rad Onco,MD,NICRH,Dhaka,1711129430,2280078,,10,B," 5,000 "
+122,GULSHAN,"Dr. Md Wahid Akter, Mphil ",Rad Onco ,MPhil ,NICRH,Dhaka,1712002858,2280078,,10,B," 5,000 "
+123,GULSHAN,Dr. Rawnak Jahan Amin,Rad Onco,MD,NICRH,Dhaka,1818546208,2280078,,5,B," 5,000 "
+124,GULSHAN,Dr. Badius Salam Riad ,Rar Onco,Mphil,SSMC,Dhaka,1716602052,9830531,mmcl-nc@yahoo.com,10,A," 5,000 "
+125,GULSHAN,"Prof. Dr. SK Golam Mustofa, ",Oncologist,FCPS,Enam Medical College,Dhaka,1819239017,987366,,20,A," 10,000 "
+126,GULSHAN,Dr. MM Abu Sayed (Montu),Surgical Onco,FCPS,NICRH,Dhaka,1713010189,2280078,,10,B," 5,000 "
+127,GULSHAN,Dr. Lubna Mariam,Oncology ,M Phil ,NICRH,Dhaka,1711135582,10666,,10,B," 10,000 "
+128,GULSHAN,"Dr. Jahangir Kabir, ",Surgical Onco,FCPS,NICRH,Dhaka,1819275151,2280078,mjkabir70bd@yahoo.com,5,C," 5,000 "
+129,GULSHAN,"Dr. Setabur Rahman,",Surgical Onco,MS,NICRH,Dhaka,1742304246,2280078,,10,C," 10,000 "
+130,GULSHAN,Dr. Mofizur Rahman Fuad ,Surgicall Onco,MS,NICRH,Dhaka,1716665099,2280078,,10,C," 5,000 "
+131,GULSHAN,"Dr. Nabir Hossain, ",Surgical Onco,MS FCPS,NICRH,Dhaka,1725859563,2280078,,10,A," 10,000 "
+132,GULSHAN,"Dr. MD Murad Chow, ",Sur Onco,MS,NICRH,Dhaka,1714620158,2280078,drmuraddc@gmail.com,5,C," 5,000 "
+133,GULSHAN,"Dr. Sujon Kumer Mojumdar, ",Sur Onco,FCPS,NICRH,Dhaka,1913704318,2280078,,10,B," 30,000 "
+134,GULSHAN,Dr. Kazi Habibullah,Sur Onco,MS,NICRH,Dhaka,1714323393,2280078,,5,B," 10,000 "
+135,GULSHAN,"Dr. Md. Shahjadul Alam,  ",Sur Onco,MS,NICRH,Dhaka,1711009274,2280078,,10,B," 5,000 "
+135,GULSHAN,Prof. Dr. Md. Abdus Sobhan,Phychiatry,"Mphil, FCPS ",,Dhaka,1720335669,,,5,C," 5,000 "
+136,GULSHAN,Col (Rtd.) Prof. Md. Nurul Azim,Phychiatry,FCPS,United Hospital,Dhaka,1611640538,10666,,10,A," 5,000 "
+137,GULSHAN,Dr. AKM Obaidul Haque,Orthopedic,"MS,",NICRH,Dhaka,1715013293,2280078,,10,B," 5,000 "
+138,GULSHAN,"Dr. AHM Rezaul Haque, ",Orthopedic,MS ,United Hospital,Dhaka,28836000,10666,,10,C," 5,000 "
+139,GULSHAN,Dr. Sirajus Salehin,Orthopedic,MS,NICRH,Dhaka,1819199786,2280078,,10,B," 10,000 "
+140,GULSHAN,Dr Zakir Hossain Biplop,Orthopedic,MS,DMC,Dhaka,1718237035,9830531,,10,B," 10,000 "
+141,GULSHAN,"Prof. Dr. Faridul Hasan, ",Optha,DO,,Dhaka,1929990124,5881674,fgltd@fg-bd.com,10,C," 5,000 "
+142,GULSHAN,Dr. Rabeya Akter,Gynae & Obsc,"DGO, ",Universal Med College,Dhaka,1819226464,,,10,B," 10,000 "
+143,GULSHAN,Dr. Sharmin Jahan,Gynae & Obsc,MPH,Life care med service,Dhaka,1717407037,,,15,A," 5,000 "
+144,GULSHAN,Prof. Dr. Selina Akter,Gynae & Obsc,"FCPS,  ",United Hospital,Dhaka,1710974848,9851958,,20,A," 50,000 "
+145,GULSHAN,Dr. Shahida Khandaker,Gynae & Obsc,"MD, FRSH,",,Dhaka,1726290435,9851958,,10,B," 50,000 "
+146,GULSHAN,Dr. Afsari Ahmed,Gynae & Obsc,FCPS,United Hospital,Dhaka,28836000,10666,,10,B," 10,000 "
+147,GULSHAN,"Dr. Yesmin Rahman, ",Gynae,DGO,Metro Politan Hospital,Dhaka,1711563131,9830531,rini442000@yahoo.com,10,B," 10,000 "
+148,GULSHAN,Prof Dr Shahla Khatun,Gynae,FCPS,,Dhaka,1713383962,9851958,,10,B," 15,000 "
+149,GULSHAN,"Prof. Dr. Ahmedul Kabir,
+",Medecine, FCPS,DMCH,Dhaka,1720910541,9639000111,ahmedul_986@yahoo.com,30,A," 30,000 "
+150,GULSHAN,Prof. Dr. Md. Abdul Jollil Ansari,Medecine,FCPS,"SMCH,Gulshan",Dhaka,1727151434,1915055555,,20,A," 30,000 "
+151,GULSHAN,Dr. Md. Syedul Islam,Medecine,FCPS.,BSMMU,Dhaka,1816143565,9611677777,syedulislam_50@gmail.com,30,A," 20,000 "
+152,GULSHAN,"Dr. Md. Kamrul Hasan
+",Medecine,FCPS,KGH.,Dhaka,1959604470,1758596433,"kamrul.hasan, 
+96@yahoo.Bom",10,B," 20,000 "
+153,GULSHAN,"Dr. Subroto Pudder
+",Medecine,FCPS,DMCH,Dhaka,1727506050,9613787809,subroto.pudder65@yahoo.om,10,c," 5,000 "
+154,GULSHAN,"Dr. Md. Rabid Amin 
+",Medecine,FCPS,AMZ Hospital,Dhaka,1847331012,10699,,20,A," 20,000 "
+155,GULSHAN,"Dr.Zinia Zafrin
+",Medecine, FCPS,AMZ Hospital,Dhaka,9639000111,10699,,15,A," 30,000 "
+156,GULSHAN,"Dr. Mohammad Sayem, 
+",Medecine,FCPS,AMZ Hospital,Dhaka,1711595698,9639000111,mohammad.sayem105@yahoo.om,15,A," 40,000 "
+157,GULSHAN,Dr. Md. Ataul Goni Osmany,Medecine, FCPS.,Sir SMCH,Dhaka,1716585029,255165088,,5,C," 10,000 "
+158,GULSHAN,"Dr. Sonia Nasrin Ahmed
+",Medecine,FCPS,Holly Family Hospital,Dhaka,1726099633,248311721,sonianasreen@gmail.com,10,B," 20,000 "
+159,GULSHAN,Dr. Nikhat Shahl Afsar,Medecine,MD,"Evercare
+Hospital,Dhaka",Dhaka,28431661,28431661,nikhatshail.afsat@evercarebd.com,15,A," 20,000 "
+160,GULSHAN,Dr. Nazmul Islam,Endocrinology,MD,"Evercare
+Hospital,Dhaka",Dhaka,1713152640,28431661,nazmul.islam@evercarebd.com,15,A," 20,000 "
+161,GULSHAN,"Dr. Md. Rafiqul Islam
+",Medecine,"BCS,FCPS",BIRDEM,Dhaka,1817540065,255165088,,10,C," 20,000 "
+162,GULSHAN,"Dr. Md. Abdul Alim (Nadim), 
+",Neurology,MD,EX:-NINSH,Dhaka,1715112688,2883556,,15,B," 20,000 "
+162,GULSHAN,Dr. Md. Mamunur Rashid,Neurology," MBBS,FCPS, MD",NINSH ,Dhaka,1819402216,29852501,,10,B," 10,000 "
+163,GULSHAN,Dr. Md. Shafiul Alam,Neu.Surgery , MS,NINSH ,Dhaka,1711567358,29112709,dr_chapal@hotmail.com,15,A," 15,000 "
+164,GULSHAN,Prof. Dr. Zillur Rahman,Neu.Surgery ,MS,"Evercare
+Hospital,Dhaka",Dhaka,1755545509,28431661,zillur.rahman@evercare.com,15,A," 30,000 "
+165,GULSHAN,Dr.Md.Lutful Lotif Chowdhury,Gastroenterology,"FRCP,FCGE MRCP","Evercare
+Hospital,Dhaka",Dhaka,1819218989,28431661,mllchawdhury@evercarebd.com,30,A," 20,000 "
+165,GULSHAN,Dr. Iqbal Murshed Kabir,Gastroenterology,"FCPS,MD","Evercare
+Hospital,Dhaka",Dhaka,1819272677,28431661,iqbal.kabir@evercarebd.com,30,A," 30,000 "
+166,GULSHAN,Prof.Dr. Saroj Kant Sinha,Gastroenterology,MD,"Evercare
+Hospital,Dhaka",Dhaka,28431661,10678,sarojkant.sinha@evercarebd.com,15,B," 10,000 "
+170,GULSHAN,"Dr. Mustuk Ahmed Rana 
+",Gastroenterology,"FCPS, MD.",BSMMU,Dhaka,1680276889,9611677777,,30,A," 10,000 "
+171,GULSHAN,Dr. Ferdous Ahmed Chowdhury,Gastroenterology,Msc,"SMCH,Gulshan",Dhaka,171245903,1915055555,,5,C," 10,000 "
+172,GULSHAN,"Dr. A.H.M Masud Sinha,
+","Cardiology
+","D-Card,FACC.",AMZ Hospital,Dhaka,1847331014,1847331010,,15,A," 30,000 "
+173,GULSHAN,"Prof. Dr. Md. Bodrul 
+Alam","Cardiology
+","D-Card,MCPS","SMCH,Gulshan",Dhaka,1715799607,1915055555,,10,C," 20,000 "
+174,GULSHAN,"Dr. Md. Shafiqul Islam, 
+","Cardiology
+",MD.,NICVD,Dhaka,1711461617,1713333233,,10,C," 10,000 "
+175,GULSHAN,Dr. Monzoor Mahmud ,"Cardiology
+","D-Card,
+MRCP,MD.",BSMMU,Dhaka,1819402216,29848052,mmahmud@gbsmmu.edu.bd,10,B," 20,000 "
+176,GULSHAN,"DR. Md. Al- Mamun 
+","Cardiology
+","MD,D-Card",NICVD,Dhaka,1931311502,9613787809,,10,C," 10,000 "
+177,GULSHAN,Prof. M A Bashar,"Cardiology
+",D-Card,NMCH,Dhaka,1715005132,9613787809,,10,B," 20,000 "
+178,GULSHAN,"Dr. Nazneen Ahmed
+",Gynaecology,"
+FCPS, MCPS","Holy Family Red Cresent Hospital, Mogbazar",Dhaka,1712845445,248311721,,20,A," 2,000 "
+179,GULSHAN,Dr. Sabina Parveen,Gynaecology,DGO,US Bangla Hospital,Dhaka,1911321817,1787694276,,20,A," 20,000 "
+180,GULSHAN,Dr. Kazi Farhana Begum,Gynaecology,FCPS.,BSMMU,Dhaka,1716582506,29848052,,20,A," 20,000 "
+181,GULSHAN,Dr. Mahzabin Naz,Gynaecology, FCPS,Ex-Holly Family Hospital,Dhaka,1818661571,248311721,,10,B," 10,000 "
+182,GULSHAN,Dr. Faria Rashid,Gynaecology,FCPS,M.H Samarita Hospital,Dhaka,1712206945,28878080,,10,C," 10,000 "
+183,GULSHAN,"Dr. Selima Kawser,
+",Gynaecology, DGO,Ex-BSMMU,Dhaka,1711456551,29848052,,10,C," 10,000 "
+184,GULSHAN,"Dr. Sumona Rahman, 
+",Gynaecology,"FCPS, MS.",BSMMU,Dhaka,1717159422,29848052,sumanarahman0@gmail.com,20,A," 30,000 "
+185,GULSHAN,"Dr. Gul-A-Anar 
+",Gynaecology,DGO,DMCH,Dhaka,1718737693,9639000111,,10,C," 10,000 "
+186,GULSHAN,"Dr. Polly Ahmed,
+",Gynaecology,"FCPS,",United Hospital,Dhaka,1975624897,10666,,10,B," 10,000 "
+187,GULSHAN,"Dr. Dina Layla Hossain, 
+",Gynaecology,FCPS,DMCH,Dhaka,1673916423,9639000111,,5,C," 10,000 "
+188,GULSHAN,"Dr. Monowara Begum 
+",Gynaecology,FCPS,"Evercare
+Hospital,Dhaka",Dhaka,1713047749,10678,monowara.begum@evercarebd.com,20,A," 30,000 "
+189,GULSHAN,Dr. Shaila Sharmin,Gynaecology,FCPS,"Beter Life Hospital,Rampura.",Dhaka,1720191560,9678786787,,10,C," 10,000 "
+190,GULSHAN,Dr. Rowshan Ara Begum,Gynaecology,"FCPS,DGO",Tairunnessa Medical,Dhaka,1818610681,1914213134,,10,C," 10,000 "
+191,GULSHAN,Dr. Md. Naimul Hossain,ENT,DLO,NIENT,Dhaka,1972789832,28878155,,5,C," 20,000 "
+192,GULSHAN,"Dr. Rashedul Hasan 
+",ENT,Msc.,SAHIC,Dhaka,1714096628,29842007,,5,C," 20,000 "
+193,GULSHAN,"Dr. M. Muinul Hafiz
+",ENT,"MS,DLO",BSH,Dhaka,1711542800,29850801,,15,A," 20,000 "
+194,GULSHAN,Dr. Mahmud Masum Attar,Pulmonologt ,DTCD,NIDCH,Dhaka,1711622036,255067131,,10,B," 10,000 "
+195,GULSHAN,Dr. Dewan Azmol Hossain,Pulmonologt ," DTCD,MD",NIDCH,Dhaka,1819449182,255067131,,15,A," 10,000 "
+196,GULSHAN,Dr. Md. Ashiqur Rahman,Pulmonologt ," DTCD,MD",NIDCH,Dhaka,1673781469,255067131,,10,C," 10,000 "
+197,GULSHAN,Dr. Md. Mosihur Rahman( Suzon),Pulmonologt ," DTCD,MD",NIDCH,Dhaka,1741990659,255067131,,10,C," 10,000 "
+198,GULSHAN,"Dr. Hasanur Roshid, 
+",Pulmonologt ,MD.,NIDCH,Dhaka,1711351587,255067131,,20,A," 20,000 "
+199,GULSHAN,Dr. Jalal Mohsin Uddin,Pulmonologt ,"MBBS, FCPS",NIDCH,Dhaka,1756000065,255067131,jalalmohsin70@yahoo.com,15,B," 20,000 "
+200,GULSHAN,"Prof. Dr. Md. Mohiuddin Ahmad
+",Pulmonologt ,MD,NIDCH,Dhaka,1552336621,255067131,mohiuddin.ahmad555@yahoo.om,20,A," 20,000 "
+201,GULSHAN,"Dr. Subroto Kumar Gain,
+",Pulmonologt ,DTCD,NIDCH,Dhaka,1915639139,255067131,,15,B," 50,000 "
+202,GULSHAN,"Dr. Md. Asraful Alam Khan
+",Pulmonologt ,MD,NIDCH,Dhaka,1819496981,255067131,,10,A," 20,000 "
+203,GULSHAN,"Dr. Delowar Hossen
+",T.Surgery,MS,NIDCH,Dhaka,1711851454,255067131,hossain_68@yahoo.com,10,A," 10,000 "
+204,GULSHAN,Dr. Kazi Saiful Islam ( Shakil),T. Surg.,MS,NIDCH,Dhaka,1715157789,255067131,,10,B," 20,000 "
+205,GULSHAN,Prof. Dr. Rowshne Jahan,Pulmonologt ,MD,"Evercare
+Hospital,Dhaka",Dhaka,1755545510,10678,rowshne@hotmail.com,10,B," 20,000 "
+206,GULSHAN,"Dr. Md. Murad Hossain.
+",Pulmonologt ,"MBBS,CCD",NIDCH,Dhaka,1616202195,255067131,,5,C," 10,000 "
+207,GULSHAN,Dr. Jamal Uddin Ahmed,Ortho ,",D-Ortho,FCPS",EX;-BSMMU,Dhaka,1911245136,29848052,,10,C," 10,000 "
+208,GULSHAN,Dr. Md. Golam Rahman (Dulal),Ortho , MS,"SMCH,Gulshan",Dhaka,1712090826,1915055555,,20,A," 30,000 "
+209,GULSHAN,"Dr. Md. Hasan Masud, 
+",Ortho ,"MS, (Ortho)",NITOR,Dhaka,1819250247,255058938,,20,A," 10,000 "
+210,GULSHAN,"Dr. Mahmudur Rahman
+",Ortho,MS,"Evercare
+Hospital,Dhaka",Dhaka,28431661,28431661,mahmudur.rahman@evercarebd.com,5,C," 10,000 "
+211,GULSHAN,"Dr. Maruf Ahmad 
+",Ortho ,D-Ortho ,NITOR,Dhaka,1711126972,255058938,drmaruf2002@gmail.com,10,B," 30,000 "
+212,GULSHAN,Prof. Dr. Syed Shahidul Islam,Ortho,MS,"Evercare
+Hospital,Dhaka",Dhaka,1729045532,10678,syed.shahidul@evercarebd.com,10,B," 20,000 "
+213,GULSHAN,"Dr. Moynul Hoque Mollik
+",Child ,DCH,Dhaka Sisu Hospital,Dhaka,1715627727,29128308,,5,C," 10,000 "
+214,GULSHAN,Dr. Shaila Yesmin,Child ,DCH,Ex-Dhaka Sisu Hospital,Dhaka,1711832180,29128308,,5,C," 10,000 "
+215,GULSHAN,"Dr. Sajani Islam,
+",Child , FCPS.,SMCH,Dhaka,1717405779,1915055555,,5,C," 10,000 "
+216,GULSHAN,"Dr. M.A Rouf,
+",Child , MD.,Dhaka Sisu Hospital,Dhaka,1917049955,29128308,,5,C," 10,000 "
+217,GULSHAN,Dr. Abu Iqbal,Child ,Md,"Evercare
+Hospital,Dhaka",Dhaka,28431661,10678,mohammad.iqbal@evercarebd.com,15,B," 20,000 "
+218,GULSHAN,Dr. Sabiha Sultana,Child ,DCH,"Evercare
+Hospital,Dhaka",Dhaka,28431663,10678,sabiha.sultana@evercarebd.com,15,B," 30,000 "
+219,GULSHAN,Prof. Dr. Md. Saiful Kabir,Skin,DDV,National Medical College,Dhaka,1819211542,1727249182,saiful.kabir765@yahoo.om,20,A," 20,000 "
+220,GULSHAN,Dr. Rubaiya Ali,Skin,"DDV, FCPS","Evercare
+Hospital,Dhaka",Dhaka,1713042794,28431661,rubaiya.ali@evercarebd.com,20,A," 20,000 "
+221,GULSHAN,Dr. Fehmina Rahman,Skin,MS,"Revive Center,Gulshan.",Dhaka,1973335588,1973335588,,5,C," 10,000 "
+222,GULSHAN,Dr. Md. Al Mahmud,Nephrology, MD,NIKDU,Dhaka,1931311502,29134022,mahmudal0987@gmail.com,10,C," 10,000 "
+223,GULSHAN,Prof.Dr. Md. Masum Kamal Khan,Nephrology,MD,"Evercare
+Hospital,Dhaka",Dhaka,1713445270,28431661,masum.kamal@evercarebd.com,15,A," 20,000 "
+224,GULSHAN,Dr. Ebadur Rahman,Nephrology,MD,"Evercare
+Hospital,Dhaka",Dhaka,1713445275,28431661,ebadur.rahman@evercarebd.com,15,A," 500,000 "
+225,GULSHAN,Dr. K B M Hadiuzzaman,Nephrology,MD,"Evercare
+Hospital,Dhaka",Dhaka,1713445276,28431661,hadiuzzaman@evercarebd.com,10,B," 10,000 "
+225,GULSHAN,Dr. Enamul Ahasan Sohel,Homeo.,BHMS,Dr. Batra's Health Care,Dhaka,1716978444,1612442244,hc-dhaka1@drbatras.com,10,A," 30,000 "
+226,GULSHAN,"Dr. Tamanna Chowdhury
+","Nutri.
+","MBBS, MPH","Evercare
+Hospital,Dhaka",Dhaka,1713240319,28431661,tamanna.chowdhury@evercarebd.com,20,A," 20,000 "
+227,GULSHAN,Dr. Md. Jahangir Khaled,GP,"MBBS,PGT",Ex-SMCH,Dhaka,155548409,29888452,,5,C," 10,000 "
+228,GULSHAN,Dr. Saiful Islam,GP,"MBBS,MPH",Pulse Medical Center,Dhaka,1712272421,9678786787,msisalim@gmail.com,15,A," 40,000 "
+229,GULSHAN,Dr. Hasibur Rahman,GP,DTCD,NIDCH,Dhaka,1552380373,1921088076,,20,A," 10,000 "
+230,GULSHAN,Dr. Md. Abdul Quayum,GP,"MBBS,FMD.",Al-Sami Hospital,Dhaka,1199154816,29846010,,5,C," 5,000 "
+231,GULSHAN,Dr. Mir Nizam Uddin Ahmed,G.P,FCGP,"Evercare
+Hospital,Dhaka",Dhaka,1911397790,1977717922,,10,B," 10,000 "
+232,GULSHAN,"Dr. Tanita Noor, 
+",G.P,Ph-D,Niketan Society Health Care,Dhaka,1714246461,1959906920,,10,B," 20,000 "
+233,GULSHAN,Dr. Md. Abdul Khaleque,G.P,"MBBS,MPH","Civil Aviation Authority,Bangladesh",Dhaka,1819295177,28901485,abdulkhaleque7@gmail.com,5,C," 20,000 "
+234,GULSHAN,Dr. Md. Marwan Kabir,G.P,"MBBS,PGT",United Hospital,Dhaka,1613719817,10666,m.kabir@rahetid.com,5,C," 10,000 "
+235,GULSHAN,Prof. Dr. Jesmin Banu,Gynae,MS,BSMMU,Baridhara,"
+01713030721",1847331010,,15,A," 15,000 "
+236,GULSHAN,Dr Zebunnesa Farooqui  ,Gynae,DGO,CMH,Baridhara,"
+01711524929",1715424437,,12,A," 30,000 "
+237,GULSHAN,Dr. Nasrin Zulfiqar,Gynae,"FCPS, MS",Evercare Hospital Basundhara            ,Baridhara,1715107946,10678,nasrin.zulfikar@evercarebd.com,12,B," 15,000 "
+238,GULSHAN,Dr. Nilufar Sultana,Gynae,FCPS,Evercare Hospital         ,Baridhara,"
+01713201215",10678,nilufar.sultana@evercarebd.com,10,C," 5,000 "
+239,GULSHAN,Dr. Selina Khatun,Gynae," MBBS, PGT","GMOC Baridhara
+",Baridhara,"
+01729058758",1715424437,,12,A," 20,000 "
+240,GULSHAN,"Dr. Nasrin Sultana
+",Gynae,FCPS,Dhaka National M.C & Hospital,Baridhara,"
+01722259752",1715424437,,8,C," 5,000 "
+241,GULSHAN,Prof. Dr.Shamin Rahman       ,Gynae,",FCPS",Shaid Sarwardi medical college. ,Baridhara,1711637780,1757292978,,12,B," 10,000 "
+242,GULSHAN,Dr. Roksana Haque,Gynae,FCPS,Uttor Womans M.C. H,Baridhara,"
+01718145011",174939589,,8,C," 5,000 "
+243,GULSHAN,"Dr. Nasrin Hossain
+",Gynae,FCPS.,NICRH,Baridhara,"
+01711395089",1768612835,,12,A," 15,000 "
+244,GULSHAN,"Dr. Sarmin Hossain
+",Gynae,"DGO, FCPS",Mugdha Medical College Hospital ,Baridhara,"
+01712085735",1768612835,,10,B," 10,000 "
+245,GULSHAN,"Dr. Parvin Haque Chowdhary, ",Gyane, MBBS,No,Baridhara,1712281597,,,5,C," 12,000 "
+246,GULSHAN,Dr Farhana Binta Rashid,Gayne , FCPS,kurmitola genaral Hospital  ,Baridhara,1914424000,255062388,,5,C," 5,000 "
+246,GULSHAN,Dr. Gulshan Ara  ,Gayne ,MS,Evercare Hospital         ,Baridhara,1713444298,10678,gulshan.ara@evercarebd.com,15,B," 15,000 "
+247,GULSHAN,Dr Nazia Ahmer,Gyane,FCPS,Azimpur M/Child & Helth,Baridhara,1711677750,1768612835,,8,C," 5,000 "
+248,GULSHAN,Prof Khadiza Begum,Gymae,MS,Mugdha Medical College Hospital ,Baridhara,1911393318,1932200200,,12,B," 10,000 "
+249,GULSHAN,Dr Mee Shehrin,Gymae,FCPS,kurmitola genaral Hospital  ,Baridhara,1787569399,1932200200,,8,C," 5,000 "
+250,GULSHAN,Dr Kaniz Fatama,Gymae,Fcps,"GMOC Baridhara
+",Baridhara,1711135581,1715424437,,10,c," 10,000 "
+251,GULSHAN,Dr Lubna Yesmin ,Gyane,DGO,Evercare Hospital         ,Baridhara,1711388688,1757292978,,8,C," 5,000 "
+252,GULSHAN,Dr Saleha Alam ,Gyane,FCPS,Dhaka National M.C & Hospital,Baridhara,1671063693,,,10,A," 15,000 "
+253,GULSHAN,Dr Nasrin Akter,Gynae,FCPS,kurmitola genaral Hospital  ,Baridhara,1711892099,255062388,,6,C," 5,000 "
+254,GULSHAN,"Dr. Holida Yesmin
+",Gynae,FCPS,Zohurul haque Medical college,Baridhara,1713444100,1932200200,,8,C," 8,000 "
+255,GULSHAN,Dr bilkis Parvin ,Gynae,DGO FCPS,MH Samorita m c ,Bashundhara,172296145,,,15,A," 20,000 "
+256,GULSHAN,"Dr. Borhan Uddin, 
+",Medicine ,MRCP,Evercare Hospital         ,Baridhara,1729073888,10678,buahmad@evercarebd.com,20,A," 25,000 "
+257,GULSHAN,Prof: Dr.Col.Md. Shahidullah        ,Med,M.Phil,CMH,Kuril,1971758064,1971758064,shahidullah1983@gmail.com,10,B," 10,000 "
+258,GULSHAN,Dr Sadikul islam ,Med,FCP,Evercare Hospital         ,Baridhara,1713099875,10678,sadiqul.islam@evercarebd.com,30,A," 30,000 "
+259,GULSHAN,Dr Abdullah Al Mamun ,Med,FCPS ,Evercare Hospital         ,Baridhara,1713042709,10678,aamamun@evercarebd.com,20,A," 30,000 "
+260,GULSHAN,Dr. Dr Mohammad Mahiuddin,Medicine ,MRCP,Baridhara General Hospital. ,Baridhara,"
+01711283986",1768612835,,5,C," 10,000 "
+261,GULSHAN,Dr. Samnun F. Taha                  ,Med,MRCP,MH Samorita Hospital,Baridhara,1711530525,,,5,C," 8,000 "
+262,GULSHAN,Prof.Abul Kalam Azad  ,Med,FCPS,BSMMU,Baridhara,19110990075,,,10,C," 5,000 "
+263,GULSHAN,Dr Nure Alam,Med,FCPS,dhaka m/c Hospital,Baridhara,1712066725,1768612835,,6,C," 5,000 "
+264,GULSHAN,Dr mahfuz A Khoda,MED,MD,BSMMU,Bashundhara,1715678556,1757292978,,6,C," 6,000 "
+265,GULSHAN,Dr K. F. M Ayaz MD,MED,MD,Evercare Hospital         ,Baridhara,1713095236,10678,mohammad.ayaz@evercarebd.com,30,A," 50,000 "
+266,GULSHAN,Dr. Shahriar Ahamed          ,MED,M.Phil,Care Medical college,Baridhara,1671063693,1768612835,shahriar1780@gmail.com,15,A," 20,000 "
+267,GULSHAN,Dr M A Wahab,MED,MD,Wahab clinic ,Baridhara,1552306659,,,,,
+268,GULSHAN,Dr F  Wahab  ,MED,MD,Wahab clinic ,Baridhara,1552306659,,,10,A," 20,000 "
+269,GULSHAN,Dr Ashraf ur Rahman ,Med,"FCPS, MD",NICVD,Baridhara,1819200026,9613787809,,15,B," 15,000 "
+270,GULSHAN,Dr Atikuzzaman,Phy.  Med, MD,Kurmitola G H                   ,Baridhara,1711059294,255062388,,10,C," 5,000 "
+271,GULSHAN,Dr. Alim Akter Bhuiyan                     ,Neurology,MD,Evercare Hospital         ,Baridhara,1713042793,10678,alim.akhtar@evercarebd.com,30,A," 50,000 "
+272,GULSHAN,Dr S M Hasan Shahriar,Neurology,MD,Evercare Hospital         ,Baridhara,1713042791,10678,,15,B," 15,000 "
+273,GULSHAN,Dr. Khandker Mahbubur Rahman       ,Neurology,MD,Evercare Hospital         ,Baridhara,1713043030,10678,mahbubar.rahman@evercarebd.com,20,A," 20,000 "
+274,GULSHAN,"Dr. M. Ali
+ ",Ortho,MS,"Evercare Hospital Bashandara
+01713064570",Baridhara,1713064570,10678,m.ali@evercarebd.com,30,A," 30,000 "
+275,GULSHAN,Dr. Mamun or Rashid,Ortho,MS,Baridhara General Hospital.,Baridhara,"
+01712012372",1791311266,,8,C," 10,000 "
+276,GULSHAN,Dr Subroto Saha,Ortho,MS,Dhaka Med Colleg,Bashundhara,1712296532,1757292978,,6,c," 10,000 "
+277,GULSHAN,Dr. Amit Kapoor,Ortho,D.Ortho,Evercare Hospital         ,Baridhara,1777759798,10678,amit .kapoor@evercarebd.com,15,B," 15,000 "
+278,GULSHAN,"Dr. Abdul Mannan Sarker, MD 
+",Endocri,MD,Evercare Hospital         ,Baridhara,171347886,10678,buahmad@evercarebd.com,20,A," 20,000 "
+279,GULSHAN,Dr Chandina Ferdous,Dibeto,DEM,Natinal Helth Care Network,Baridhara,1552431243,1791311266,,10,C," 10,000 "
+280,GULSHAN,Dr Ahsanul Haq Amin,Endocri,MD,Evercare Hospital         ,Baridhara,1730374834,10678,buahmad@evercarebd.com,20,A," 20,000 "
+281,GULSHAN,Dr SM Abdullah Al Mamun ,Chest Med,MD,Evercare Hospital         ,Baridhara,1730304999,10678,smaamamun@evercarebd.com,15,B," 15,000 "
+282,GULSHAN,"Dr. Chandra Phakash Dokwal, ",Chest Med,MD,Evercare Hospital         ,Baridhara,1713229662,10678,chandre.pokas@evercarebd.com,12,B," 15,000 "
+283,GULSHAN,Dr. S. M. Shahdat Hossain,Hepatology,MD,"Kurmitola G H
+",Baridhara,"
+01671551373",255062388,shahadatgreen@gmail.com,40,A," 50,000 "
+284,GULSHAN,Dr. Md. Golam Kibria,Hepatology,"FCPS, MD",Shakh Rasul Gasti liver,Baridhara,"
+0177542664",,,20,A," 20,000 "
+285,GULSHAN,Dr Nure Alam,Hepatology,,,,,,,,,
+286,GULSHAN,"Dr. Jahangir  Alam 
+",Hepatology,MD,Shahid Sarwardi M/C,badda,1712563828,9613787809,,8,C," 10,000 "
+287,GULSHAN,Dr Abul Basar Biswas,Gastology,MD,NO,Bashundhara,1819276568,1757292978,,10,B," 5,000 "
+288,GULSHAN,Dr. Md. Imam Hasan ,Child,FCPS,Dhaka Medical Colleg,Baridhara,1711226557,,,15,A," 25,000 "
+289,GULSHAN,Dr. Khandker Q Zaman,Child,MD,Sir. Salimullah Medical College.,Baridhara,"
+0171262303",1757292978,kzamanraisa@gmail;com,20,C," 15,000 "
+290,GULSHAN,"Dr. Nurul Hossain, 
+",Child,FCPS,Uttora Adhunick M.C. & Hospital.,Baridhara,"
+01711612340",1715424437,,20,C," 5,000 "
+291,GULSHAN,Dr. M.S. Haque ,Child,MCPS,"GMOC Baridhara
+01713033737",Baridhara,"
+01713033737",1715424437,,20,B," 15,000 "
+292,GULSHAN,Dr. Delwar Hossain Mollah.                ,Child,FCPS,International m/c,Baridhara,1711909671,1757292978,,15,C," 10,000 "
+293,GULSHAN,Dr M Qumrul Hasan ,Ped,FCPS ,Evercare Hospital         ,Baridhara,1713228882,10678,mqitalukder@evercarebd.com,30,C," 15,000 "
+294,GULSHAN,"Dr. Moh. Samim Bin Said Khan,",ENT," DLO, MS.",Kurmitola G H  ,Baridhara,1711442421,255062388,,8,C," 10,000 "
+295,GULSHAN,Prof. Dr. A.Q.M.B Chowdhury,Med,FRCP,NO,Baridhara,1716067310,,,12,C," 10,000 "
+296,GULSHAN,Dr Mohammad Ali Chowdhary,Skin,DD,Sarkary Kormochary Hos,Baridhara,1711409055,1932200200,,6,C," 5,000 "
+297,GULSHAN,Dr Q M Mahbub ullah,Derma,MD,Evercare Hospital         ,Bashundhara,1711197137,10678,qm.mahbub.ullah@evercarebd.com,15,B," 10,000 "
+298,GULSHAN,Dr. Jesmin Manzoor,Derma,MDS,Evercare Hospital         ,Baridhara,1713063089,10678,jesmin.manzoor@evercarebd.com,15,B," 15,000 "
+299,GULSHAN,Dr A T M Mowladad Chowdhary ,Urology ,MS,Evercare Hospital         ,Baridhara,1713186888,10678,,10,C," 10,000 "
+300,GULSHAN,"Dr. Fahimida Begum, MD.",Nephrology ,MD,Evercare Hospital         ,Baridhara,1858866735,10678,fahmida.begum@evercarebd.com,10,C," 10,000 "
+301,GULSHAN,Dr Delwar Hossain,Nephrology ,MD,Kurmitola G H  ,Baridhara,1956910218,1791311266,,10,B," 10,000 "
+302,GULSHAN,Dr. Anwarul Haque Faraji   ,Nephrology ,MD,NIKDU,Baridhara,1552306831,,,15,B," 10,000 "
+303,GULSHAN,Dr Shams Munwar ,Cardiologist ,FRCP,Evercare Hospital         ,Baridhara,1819221828,10678,shams.munwar@evercarebd.com,20,A," 30,000 "
+304,GULSHAN,Dr kazi Atiqur Rahman ,Cardiologist ,MD,Evercare Hospital         ,Baridhara,1730374833,10678,atiqur.rahman@evercarebd.com,10,C," 6,000 "
+305,GULSHAN,Dr Tamzid Ahmed ,Cardiologist ,FRCp,Evercare Hospital         ,Baridhara,1819436746,10678,tamzid.ahmed@evercarebd.com,10,C," 8,000 "
+306,GULSHAN,"Prof Dr Shahabuddin Talukdar 
+",Cardiologist ,FRCP,Evercare Hospital         ,Baridhara,1713228883,10678,shahab u talukdar@evercare.com,15,B," 15,000 "
+307,GULSHAN,Dr. Sakif Sahriar ,Cardiologist ,MD,NICVD,Baridhara,1737096015,1932200200,,15,C," 15,000 "
+308,GULSHAN,Dr. K.M. Anwarul Haque ,G.P,MBBS,No,Baridhara,1715222080,,,6,C," 6,000 "
+309,GULSHAN,Dr Riyad Ahmed Amir,Gp,MBBS,NO,Baridhara,1819484920,,riyadhamir15@gmail.com,6,c," 6,000 "
+310,GULSHAN,Dr Upal Basu,GP,MBBS,NO,Baridhara,1716879126,,,6,C," 10,000 "
+311,GULSHAN,Dr Sadia Afrin Tani,SURGARY,MS,Dhaka Med/c,Baridhara,1713379911,,,5,C," 6,000 "
+312,GULSHAN,Dr Kabirul Hasan,SURGARY,FCPS,NO,Baridhara,1715324887,1768612835,,5,C," 10,000 "
+313,GULSHAN,Dr Ferdous Shahriar Said,Oncology,MD,Evercare Hospital         ,Bashundhara,1704166892,10678,ferdous.shahriar@evercarebd.com,,,
+314,GULSHAN,Dr. Kaisar Nasrullah Khan  ,Cardiology,"FCPS, MD
+Sr. Consultant",United Hospital,Dhaka,1716610459,10666,kaisar.khan@uhlbd.com,30,A," 40,000 "
+315,GULSHAN,Dr. NAM Momenuzzaman ,Cardiology,"D-Card, MD
+Sr. Consultant",United Hospital,Dhaka,1711529539,10666,momenuz.zaman@uhlbd.com,30,A," 20,000 "
+316,GULSHAN,Dr. Fatema Begum  ,Cardiology,"FCPS, MD
+Sr. Consultant",United Hospital,Dhaka,1711331952,10666,fatema.begum@uhlbd.com,30,A," 50,000 "
+317,GULSHAN,Dr. Reyan Anis ,Cardiology,"MRCP
+Consultant",United Hospital,Dhaka,1711537302,10666,reyan.anis@uhlbd.com,10,C," 10,000 "
+318,GULSHAN,Dr. Jahangir Kabir,Cardiac Surgeon,"MS
+Chief Surgeon",United Hospital,Dhaka,1714749916,10666,jahangir.kabir@uhlbd.com,20,B," 10,000 "
+319,GULSHAN,Prof. Dr.Khandakar Quamrul Islam ,Cardiology,"D-Card, MD
+Professor",UMCH,Dhaka,1711703542,1841480000,,20,A," 10,000 "
+320,GULSHAN,Dr. Rezwana Siddiqui,Cardiology,"MD 
+Jr. Consultant",CMH,Dhaka,1914332288,1841480000,dr.rezwanasiddique25@gmail.com,10,B," 10,000 "
+321,GULSHAN,Dr. MA Hasnat ,Cardiology,"FCPS, MD
+Asst. Professor",KGH,Dhaka,1711229128,1841480000,drhasnat@gmail.com,10,C," 10,000 "
+322,GULSHAN,Prof. Dr. Nusrat Zaman ,Gynaecology,"FCPS
+Professor",Green Life Medical College,Dhaka,1711528269,10666,nusrat.zaman@uhlbd.com,30,A," 100,000 "
+323,GULSHAN,Dr. Naseem Mahmud ,Gynaecology,"Ph.D
+Consultant",United Hospital,Dhaka,1914001601,10666,maseem.mahmud@uhlbd.com,20,A," 50,000 "
+324,GULSHAN,Prof. Dr. Hazera Khatun  ,Gynaecology,"MS
+Professor",United Hospital,Dhaka,1611529768,10666,hazera.khatun@uhlbd.com,15,B," 20,000 "
+325,GULSHAN,Dr. Nilufar Sultana ,Gynaecology,"MS, FCPS
+Consultant",United Hospital,Dhaka,1914001522,10666,hasina.afroz@uhlbd.com,10,C," 10,000 "
+326,GULSHAN,Brig.Gen. (Retd) Dr. Suraiya Rahman  ,Gynaecology,"DGO
+Consultant",Ex CMH,Dhaka,1819223545,1760232959,suraiyarahman.bg@gmail.com,10,A," 50,000 "
+327,GULSHAN,Prof. Dr. Farhana Dewan   ,Gynaecology,"FCPS
+Professor",BSMMU,Dhaka,1711529022,1760232959,farhana.dewan@uhlbd.com,20,A," 40,000 "
+328,GULSHAN,Dr. Nigar Sultana  ,Gynaecology,"FCPS
+Asso. Professor",BSMMU,Dhaka,1715011749,1841480000,,10,C," 10,000 "
+329,GULSHAN,Dr. Mariha Alam Chowdhury,Gynaecology,"FCPS, MRCOG
+Consultant",Pravaa Health,Dhaka,1847278032,9666710648,drmarihachowdhury@praavahealth.com,10,C," 10,000 "
+330,GULSHAN,Dr. Kashefa Nazneen  ,Gynaecology,"FCPS
+Consultant",Square Hospital,Dhaka,1313718687,9610010616,,20,B," 10,000 "
+331,GULSHAN,Dr. Begum Shamsun Nahar Kana,Gynaecology,"FCPS
+Consultant",MMC,Dhaka,1819260390,1715016727,shamskana99@gmail.com,20,B," 10,000 "
+332,GULSHAN,Dr. Farzana Hossain,Gynaecology,"MRCOG
+Consultant",MMC,Dhaka,1302692780,1715016727,shantuzaid@gmail.com,10,C," 5,000 "
+333,GULSHAN,Dr. Kaniz Moula   ,"Internal 
+Medicine","FCPS
+Professor",United Hospital,Dhaka,1711564422,10666,kanuz.moula@uhlbd.com,20,A," 30,000 "
+334,GULSHAN,Prof. Dr. Taimor Nawaz  ,"Internal 
+Medicine","MRCP
+Professor",United Hospital,Dhaka,1914001144,10666,taimor.nawaz@uhlbd.com,20,A," 30,000 "
+335,GULSHAN,Dr. Pradip R. Saha  ,"Internal 
+Medicine","FCPS
+Sr. Consultant",United Hospital,Dhaka,181836444,10666,pradip.saha@uhlbd.com,30,A," 70,000 "
+336,GULSHAN,Dr. Mohammad Jahangir Talukder  ,"Internal 
+Medicine","MRCP
+Consultant",United Hospital,Dhaka,1914001144,10666,Jahangir.talukder@uhlbd.com,10,C," 10,000 "
+337,GULSHAN,Dr. Syeda Fahmida Hossain,"Internal 
+Medicine","FCPS
+Consultant",United Hospital,Dhaka,10666,10666,,10,B," 15,000 "
+338,GULSHAN,Prof. Dr. A.Q.M Mohsen,Gastroenterologist & Hepatologist,"FCPS, FGH
+Professor",United Hospital,Dhaka,1819212789,1715016727,draqmmohsen@gmail.com,30,A," 100,000 "
+339,GULSHAN,Dr. Mohammad Mahbub Alam,Hepatology ,"Ph.D
+Consultant",United Hospital,Dhaka,1914001266,10666,mahbub.alam@uhlbd.com,10,C," 10,000 "
+340,GULSHAN,Dr. Abul Hayat Manik,Hepatology ,"MD
+Consultant",DMCH,Dhaka,1711372914,1715016727,drahmanik@gmail.com,10,B," 15,000 "
+341,GULSHAN,Dr. Partho Pratik Roy ,Hepatology ,"MD
+Consultant",BSMMU,Dhaka,1712670573,9666710648,pproy1983@gmail.com,10,B," 15,000 "
+342,GULSHAN,Dr. Alim Akhter Bhuiyan,Neurology,United Hospital,United Hospital,Dhaka,1713042793,10666,alim.akhter@uhlbd.com,20,A," 30,000 "
+343,GULSHAN,Dr. Amit Wazib,Neurology,United Hospital,United Hospital,Dhaka,1979181182,10666,amit.wazib@uhlbd.com,5,C," 10,000 "
+344,GULSHAN,Dr. Syed Sayed Ahmed ,Neurosurgery,"FRCS 
+Consultant",United Hospital,Dhaka,1817505683,10666,sayed.ahmed@uhlbd.com,10,B," 50,000 "
+345,GULSHAN,Prof. Dr. Nurul Islam  ,Nephrology,"MRCP, FRCP
+Professor",United Hospital,Dhaka,1711852026,10666,nurul.Islam@uhlbd.com,30,A," 100,000 "
+346,GULSHAN,Prof. Dr. M Mujibul Haque Mollah  ,Nephrology,"MRCP
+Professor",Square Hospital,Dhaka,1711548528,9610010616,mujibul1958@gmail.com,20,A," 30,000 "
+347,GULSHAN,Dr. Tanveer Bin Latif,Nephrology,MRCP,United Hospital,Dhaka,1914001259,10666,tanveer.latif@uhlbd.com,10,B," 10,000 "
+348,GULSHAN,Dr. Tasnuva Sarah Kashem,Nephrology,"MD
+Consultant",Kidney Foundation,Dhaka,1759198416,28361841,tasnuvakashem@yahoo.com,10,B," 20,000 "
+349,GULSHAN,Dr. Iqram A Rahman  ,Othopaedics," D-ORTHO
+Consultant",Prescription Point Ltd.,Dhaka,1711530654,1713333233,rahmaniqram51@gmail.com,10,B," 20,000 "
+350,GULSHAN,"Prof. Dr. Mahbub
+Hossain Mehedi ",Othopaedics,"D Ortho, MS
+Professor",Prescription Point Ltd.,Dhaka,1715111146,1713333233,mahedissmc@gmail.com,10,A," 60,000 "
+351,GULSHAN,Prof. Dr. Brig. Gen. Md. Abdul Mannan  ,Othopaedics,"MS
+Professor",United Hospital,Dhaka,1711054377,10666,abdul.mannan@uhlbd.com,10,C," 10,000 "
+352,GULSHAN,Prof. Dr. Md. Rashidul Hasan,Othopaedics,"MS
+Professor",Impulse Hospital,Dhaka,1711735268,1715016727,,10,C," 10,000 "
+353,GULSHAN,Dr. SM Amir Hossain,Othopaedics,MS,Impulse Hospital,Dhaka,1711542064,1715016727,amirhossain9@live.com,10,C," 10,000 "
+354,GULSHAN,Prof. Dr Salim Shakur   ,Paediatric,"DCH, MRCP
+Professor",United Hospital,Dhaka,1711523810,10666,,30,C," 10,000 "
+355,GULSHAN,Dr. Md. Moshiur Rahman,Paediatric,"FCPS, MRCP
+Professor",United Hospital,Dhaka,175563271,10666,,10,C," 10,000 "
+356,GULSHAN,Dr. Kazi Ali Hassan,Endocrinology,MD,United Hospital,Dhaka,1715193307,10666,,10,B," 15,000 "
+357,GULSHAN,Dr. Prashanta Prasun Dey ,Endocrinology,"MD
+Consultant",United Hospital,Dhaka,1715757018,10666,,10,C," 10,000 "
+358,GULSHAN,Dr. M A Mobin Talukder  ,Endocrinology,"MCPS,CC
+Consultant",Prescription Point Ltd.,Dhaka,1711943268,1713333233,talukder.mabin@yahoo.com,10,B," 20,000 "
+359,GULSHAN,Dr. Md. Wahiduzzaman,"Medicine 
+Diabetic","FCPS, CCD
+Consultant",BIHS Gulshan,Dhaka,1819491789,1301376333,,10,B," 10,000 "
+360,GULSHAN,Dr. Abdullah Al Mamun ,"Medicine 
+Diabetic","CCD
+Consultant",BIHS Gulshan,Dhaka,1676165011,1301376333,nusaba.narisha@gmail.com,15,A," 50,000 "
+361,GULSHAN,Dr. Aynul Kabir Chowdhury ,"Medicine 
+Diabetic","FCPS
+Consultant",BIHS Gulshan,Dhaka,1918227822,1301376333,draynul@gmail.com,10,B," 20,000 "
+362,GULSHAN,Dr. Apurba Kumar Saha  ,"Medicine 
+Diabetic","MPH, CCD
+Consultant",BIHS Gulshan,Dhaka,1553387038,1301376333,,10,C," 10,000 "
+363,GULSHAN,Dr. Nadim-Al-Nahian  ,GP,"CCD
+Consultant",Ibn Sina Medical College,Dhaka,1911285501,,drnahian@hotmail.com,20,A," 120,000 "
+363,GULSHAN,Dr. Reshma Aziz,GP," MS
+Consultant",Square Hospital,Dhaka,1948444999,9610010616,aziz.reshma@yahoo.com,10,A," 200,000 "
+364,GULSHAN,Maj. Dr. Khosroz Samad,GP,"M.Phill
+Consultant",CMH,Dhaka,1707549359,,,10,B," 10,000 "
+365,GULSHAN,Dr. Rezaur Rahman ,GP,"D.Card
+Consultant",Impulse Hospital,Dhaka,1717876842,,dr.rezaurrahman@yahoo.com,10,A," 50,000 "
+366,GULSHAN,Dr. Jereen Afsana  ,GP,MBBS,Own House,Dhaka,1847101300,,,10,C," 10,000 "
+367,GULSHAN,Dr. Syeda Farhana Hossain Tuly,GP,PGT,Japan Medicare,,1759030336,,,10,C," 10,000 "
+368,GULSHAN,Dr. Masud Nasir,GP,MBBS,United Hospital,Dhaka,1711947155,,masud.nasir@uhlbd.com,10,C," 10,000 "
+369,GULSHAN,Dr. Mosrose Salina ,"Family 
+Physician","CCD
+Consultant",Praava Health,Dhaka,1847278033,9666710648,,10,B," 20,000 "
+370,GULSHAN,Dr. Lt. Col. Md. Kabir Ahmed Khan ,"Family 
+Physician","FCPS, CCD
+Consultant",Praava Health,Dhaka,1844508438,9666710648,,10,B," 10,000 "
+371,GULSHAN,Dr. Mohd. Abdul  Matin    ,"Corporate 
+Doctor","MBBS
+Consultant",Standard Chartard Bank,Dhaka,1819223343,28833003,,10,C," 10,000 "
+372,GULSHAN,Dr. Moshiur Rahman ,"Corporate 
+Doctor","CCD
+Consultant",The Westin Hotel,Dhaka,1755638271,29891988,moshiurlnd@gmail.com,10,B," 20,000 "
+373,GULSHAN,Prof. Dr. Anisur Rahman ,"General 
+Surgery","FCPS, FRCS
+Professor",United Hospital,Dhaka,1914001228,10666,anisur.rahman@uhlbd.com,10,C," 10,000 "
+374,GULSHAN,Dr. S M G Kibria,"General 
+Surgery",Consultant,United Hospital,Dhaka,1799336622,10666,smg.kibria@uhlbd.com,10,B," 10,000 "
+375,GULSHAN,DR M A ZULKIFL ,"General 
+Surgery","FCPS (SUR), FRCS
+Consultant",United Hospital,Dhaka,1914001244,10666,,10,B," 10,000 "
+376,GULSHAN,Dr. Rabiul Karim Khan Papon,"Plastic 
+Surgery",Consultant,United Hospital,Dhaka,1818915086,10666,rabiulpapon77@yahoo.com,5,C," 10,000 "
+377,GULSHAN,Dr. Debashis Chowdhury   ," Sports
+ Injury","MSc
+Consultant",BCB,Dhaka,1715062484,1873444477,debashis@movementsbd.com,10,A," 50,000 "
+378,GULSHAN,Dr. SM Zahidul Ialam (Sazal) ," Sports
+ Injury","BPT
+Consultant",BCB,Dhaka,1671161698,1873444477,sazal@movementsbd.com,10,A," 50,000 "
+379,GULSHAN,Dr. Nazir Arifeen Jitu," Sports
+ Injury","BPT
+Consultant",Movement Solution BD,Dhaka,1672533780,1873444477,jitu@movementsbd.com,10,B," 10,000 "
+380,GULSHAN,Dr. Ashim Kumar Sengupta ,"Medical
+Oncology","M.Phill
+Consultant",United Hospital,Dhaka,1914001281,10666,ashim.sengupta@uhlbd.com,10,C," 10,000 "
+381,GULSHAN,Prof. Dr. Kazi A Karim ,Dermatology,"DDV, MSSVD
+Consultant",United Hospital,Dhaka,1914001254,10666,,10,C," 10,000 "
+382,GULSHAN,Prof. Dr. Mahmudul Hasan,ENT,"FCPS
+Professor",NIENT,Dhaka,1819211501,1841480000,drmahmud59@yahoo.com,10,B," 10,000 "
+383,GULSHAN,Dr. ABM Farukul Islam ,Chest Medicine,"MPH
+Consultant",NIDCH,Dhaka,1711459246,1841222033,dr.farukm31@gmail.com,10,A," 20,000 "
+384,GULSHAN,Dr. MD. Mamunur Rashid,Chest Medicine,"DTCD,MD
+Consultant",NIDCH,Dhaka,1711903377,1841222033,,10,B," 10,000 "
+385,GULSHAN,Dr. MD Touhiduzzaman ,Chest Medicine,"DTCD,MD
+Consultant",NIDCH,Dhaka,1712082646,1841222033,,10,B," 5,000 "
+386,GULSHAN,Prof. Dr. Abdus Shakur Khan,Chest Medicine,MBBS,NIDCH,Dhaka,1817706180,,,10,B," 20,000 "
+387,GULSHAN,Dr. Kazi Saifuddin Bennoor,Chest Medicine,"DTCD
+Professor",NIDCH,Dhaka,1711542467,,bennoor@gmail.com,10,C," 10,000 "
+388,GULSHAN,Dr. Miraz Mahmud,Chest Medicine,"FCPS
+Professor",NIDCH,Dhaka,1689192090,1635994444,,10,A," 20,000 "
+389,GULSHAN,Dr. Md. Serajul Islam ,Chest Medicine,"DTCD,MD
+RP",NIDCH,Dhaka,1711452921,,,10,B," 10,000 "
+390,GULSHAN,Dr. MD. Delowar  Hossain,"Thorasic
+Surgeon ","MS
+RS",NIDCH,Dhaka,1711851454,1841222033,,10,C," 5,000 "
+391,GULSHAN,Dr. Anwaraul Anam Kibria,"Thorasic
+Surgeon ","MS
+Asso. Professor",NIDCH,Dhaka,1711563510,10666,,10,C," 5,000 "
+392,GULSHAN,Dr. MD. Kamrul Islam,"Thorasic
+Surgeon ","MS
+Professor",NIDCH,Dhaka,1783515830,,,10,C," 5,000 "
+393,GULSHAN,Prof.(Dr.) Md.Julhash Uddin,Medicine,"FCPS, FCCP, FRCP",Marks Medicla College Hospital,Dhaka,01819242440,028835981-4,md.julhushuddin@yahoo.com,10,A," 200,000 "
+393,GULSHAN,Prof. Brig Gen. Dr. Md. Habibur Rahman,Medicine,FCPS,CMH,Dhaka,01769016786,028835981-4,drhabiburrahmanamc@gmail.com,15,A," 250,000 "
+394,GULSHAN,Dr. Muhammad. Abdur Rohim,Medicine,FCPS,BIRDEM,Dhaka,01674534500,028835981-4,,5,C," 50,000 "
+395,GULSHAN,Dr. Shatil Shaddam Bhuiyan (siam),Medicine,MRCP,Bananni Clinic Ltd.,Dhaka,01966453678,028835981-5,drsiambhuiyan@gmail.com,5,C," 50,000 "
+396,GULSHAN,Prof. Dr. Quarrata Eynul Forhad,Gynecologist,FCPS,Ex Shahabuddin Medical College ,Dhaka,01715864134,028835981-4,forhad.eynul@gmail.com,25,A," 350,000 "
+397,GULSHAN,Dr. Umme Parveen,Gynecologist,"DGO, FCPS",Holly Family Red Crescent Hospital,Dhaka,01713035513,028835981-4,ummeparveen@lite.com,5,C," 50,000 "
+398,GULSHAN,Dr. Kamrun Nahar (Mitu),Gynecologist,FCPS,Labaid Gulshan,Dhaka,01817539509,028835981-4,kamrunnahar19741974@gmail.com,10,B," 100,000 "
+399,GULSHAN,Dr. Asfi Liala Elora,DMCH,FCPS,Labaid Gulshan,Dhaka,01711940850,028835981-4,ashfilialaelora@gmail.com,5,C," 50,000 "
+400,GULSHAN,Dr A K M Shaheen Ahmed,Diabetologist & Medicine,"FCPS, MCPS",BIRDEM,Dhaka,01817049269,028835981-4,akm_shaseen@yahoo.com,15,A," 250,000 "
+401,GULSHAN,Prof. Dr.Md. Hafizur Rahman,Endocrinologist,"DEM, MD, MACE",Ex DMCH,Dhaka,01534312072,028835981-4,hafizdrendo@yahoo.com,10,B," 150,000 "
+402,GULSHAN,Dr. MA Halim Khan,Endocrinologist,MD,SSMCH,Dhaka,01712560552,028835981-4,,5,C," 50,000 "
+403,GULSHAN,Prof. Dr. A K M Shamsul kabir,Hepatologist,"FCPS, MD",Holly Family Red Crescent Hospital,Dhaka,01711535192,028835981-4,sbabu32@yahoo.com,30,A," 800,000 "
+404,GULSHAN,Dr. Mir Jakib Hossain,Hepatologist,"FCPS, MD",Sheikh Russel Gastroliver Hospital,Dhaka,01722988681,028835981-4,,5,C," 50,000 "
+405,GULSHAN,Dr. Md.. Jahangir Kabir,Hepatologist,MD,Kurmitola General Hospital,Dhaka,01911138686,028835981-4,pavel.jk.74@gmail.com,10,B," 150,000 "
+406,GULSHAN,Dr. Faruk Amin Talukder,Nephrologist,MD,Kurmitola General Hospital,Dhaka,01711529243,028835981-4,tmd.faruqamin@yahoo.com,8,C," 50,000 "
+407,GULSHAN,Prof. Dr. Shohrab Hossain Sourov,Urologist,MS,DCIMCH,Dhaka,01741505269,028835981-4,,5,C," 50,000 "
+408,GULSHAN,Dr. Shahriar Md Kabir Hasan,Urologist,MS,NIKDU,Dhaka,01711451826,028835981-4,pallab812@gmail.com,10,B," 150,000 "
+409,GULSHAN,Dr.Md. Ehsanur Rabbi ,Orthopedic,Ph.D,Labaid Gulshan,Dhaka,01819237853,028835981-4,erabbi1129@gmail.com,25,A," 400,000 "
+410,GULSHAN,Dr. A. C. Saha,Orthopedic,"D-Ortho, MS",NITOR,Dhaka,01741103257,028835981-4,dr.apel@yahoo.com,20,A," 450,000 "
+411,GULSHAN,Dr. Jagodish Chandra Gosh,Orthopedic,"D-Ortho, MS",Ex-NITOR,Dhaka,01720947187,028835981-5,drghoshjc@gmail.com,5,C," 100,000 "
+412,GULSHAN,Dr.Md. Ziaul Karim,Medicine & Chest,"DTCD, FKIT, FCCP",NIDCH,Dhaka,01728347104,028835981-4,karimzia.24@gmail.com,20,A," 400,000 "
+413,GULSHAN,Dr.Adnan Yousuf Choudhury,Medicine & Chest,"MCPS, MD",Mugda Medical College & Hospital,Dhaka,01711234383,028835981-4,choudhuryadnanchest@gmail.com,8,B," 150,000 "
+414,GULSHAN,Dr. Tarek Alam,Medicine & Chest,MD,Bangladesh Medical,Dhaka,01813120520,028835981-4,,10,C," 50,000 "
+415,GULSHAN,Dr.Md. Khalequzzaman,Cardiologist,"FCPS, MD, FACC",Dhaka Medical College & Hospital,Dhaka,01713011383,028835981-4,mkzdr@yahoo.com,25,A," 350,000 "
+416,GULSHAN,Dr.Col Syeda Aleya Sultana,Cardiologist,"FCPS, D-Card",CMH,Dhaka,01713034509,028835981-4,aleyaimtiaz@yahoo.com,8,B," 100,000 "
+417,GULSHAN,Dr. Jahanara Arzu,Cardiologist,MD,BSMMU,Dhaka,01819222854,028835981-4,drjarzu@gmail.com,5,C," 75,000 "
+418,GULSHAN,Dr. S M Kamrul Hasan,Cardiologist,"FCPS, MD",DMCH,Dhaka,01711148887,028835981-4,hasandrkamrul@gmail.com,5,C," 50,000 "
+419,GULSHAN,Dr. DMM Osmany,Cardiologist,MD,BSMMU,Dhaka,01819866668,028835981-4,osmany@bsmmu.edu.bd,5,C," 75,000 "
+420,GULSHAN,Prof. Dr. Farid Ahmed,Paediatrics,"DCH, MD",Dhaka Shisu Hospital,Dhaka,01778189752,028835981-4,farid_shamim@live.com,15,B," 150,000 "
+421,GULSHAN,Prof. Afiqul Islam,Paediatrics,"FCPS, MD",BSMMU,Dhaka,01755593873,028835981-4,,25,A," 200,000 "
+422,GULSHAN,Lt. Col. Dr. Nazmul Islam Bhuiyan,Paediatrics,FCPS,CMH,Dhaka,01769014676,028835981-4,,5,C," 50,000 "
+423,GULSHAN,Dr. Bazlur Rashid Sumon,Neurologist,MD,NINS,Dhaka,01716266948,028835981-4,,5,C," 50,000 "
+424,GULSHAN,Dr  Md Shahidullah (Sabuj),Neurologist,"FCPS, MD",BSMMU,Dhaka,01552401691,028835981-4,,20,A," 150,000 "
+425,GULSHAN,Dr. Masud Anwar,Neurologist,MSc,Aichi Hospital,Dhaka,01914746721,028835981-4,,5,B," 100,000 "
+426,GULSHAN,Br Gen Prof  Shamsul Huda,Skin & VD,FCPS,CMH,Dhaka,01720529086,028835981-4,huda_banbat@yahoo.com,15,B," 100,000 "
+427,GULSHAN,Dr Ayesha Siddika,Skin & VD,DDV,Delta Medical College & Hospital,Dhaka,01682139859,028835981-4,ayshazamil17@gmail.com,10,C," 75,000 "
+428,GULSHAN,Dr Zahurul Huq,ENT,"FCPS, DLO",BSMMU,Dhaka,01715219508,028835981-4,,10,B," 100,000 "
+429,GULSHAN,Dr  Raju Borua ,ENT,"FCPS, DLO",DCIMCH,Dhaka,01817737637,028835981-4,b.raju6737@gmail.com,10,B," 150,000 "
+430,GULSHAN,Dr. Mohammad Ferdous Hassan (Apu),Family Medicine ,FMD,Labaid Gulshan,Dhaka,01711311036,028835981-4,,15,A," 250,000 "
+431,GULSHAN,Dr. AKM Jakirul Alam,Family Medicine ,"CCD, MPH",SMCH,Dhaka,01924914808,028835981-4,akmjaripon@yahoo.com,10,B,2250000
+432,,,,,,,,,,,,
+433,,,,,,,,,,,,
+434,,,,,,,,,,,,
+435,,,,,,,,,,,,
+436,,,,,,,,,,,,
+437,,,,,,,,,,,,
+438,,,,,,,,,,,,
+439,,,,,,,,,,,,
+440,,,,,,,,,,,,
+441,,,,,,,,,,,,
+442,,,,,,,,,,,,
+443,,,,,,,,,,,,
+444,,,,,,,,,,,,
+445,,,,,,,,,,,,
+446,,,,,,,,,,,,
+447,,,,,,,,,,,,
+448,,,,,,,,,,,,
+449,,,,,,,,,,,,
+450,,,,,,,,,,,,
+451,,,,,,,,,,,,
+452,,,,,,,,,,,,
+453,,,,,,,,,,,,
+454,,,,,,,,,,,,
+455,,,,,,,,,,,,
+456,,,,,,,,,,,,
+457,,,,,,,,,,,,
+458,,,,,,,,,,,,
+459,,,,,,,,,,,,
+460,,,,,,,,,,,,
+461,,,,,,,,,,,,
+462,,,,,,,,,,,,
+463,,,,,,,,,,,,
+464,,,,,,,,,,,,
+465,,,,,,,,,,,,
+466,,,,,,,,,,,,
+467,,,,,,,,,,,,
+468,,,,,,,,,,,,
+469,,,,,,,,,,,,
+470,,,,,,,,,,,,
+471,,,,,,,,,,,,
+472,,,,,,,,,,,,
+473,,,,,,,,,,,,
+474,,,,,,,,,,,,
+475,,,,,,,,,,,,
+476,,,,,,,,,,,,
+477,,,,,,,,,,,,
+478,,,,,,,,,,,,
+479,,,,,,,,,,,,
+480,,,,,,,,,,,,
+481,,,,,,,,,,,,
+482,,,,,,,,,,,,
+483,,,,,,,,,,,,
+484,,,,,,,,,,,,
+485,,,,,,,,,,,,
+486,,,,,,,,,,,,
+487,,,,,,,,,,,,
+488,,,,,,,,,,,,
+489,,,,,,,,,,,,
+490,,,,,,,,,,,,
+491,,,,,,,,,,,,
+492,,,,,,,,,,,,
+493,,,,,,,,,,,,
+494,,,,,,,,,,,,
+495,,,,,,,,,,,,
+496,,,,,,,,,,,,
+497,,,,,,,,,,,,
+498,,,,,,,,,,,,
+499,,,,,,,,,,,,
+500,,,,,,,,,,,,
+501,,,,,,,,,,,,
+502,,,,,,,,,,,,
+503,,,,,,,,,,,,
+504,,,,,,,,,,,,
+505,,,,,,,,,,,,
+506,,,,,,,,,,,,
+507,,,,,,,,,,,,
+508,,,,,,,,,,,,
+509,,,,,,,,,,,,
+510,,,,,,,,,,,,
+511,,,,,,,,,,,,
+512,,,,,,,,,,,,
+513,,,,,,,,,,,,
+514,,,,,,,,,,,,
+515,,,,,,,,,,,,
+516,,,,,,,,,,,,
+517,,,,,,,,,,,,
+518,,,,,,,,,,,,
+519,,,,,,,,,,,,
+520,,,,,,,,,,,,
+521,,,,,,,,,,,,
+522,,,,,,,,,,,,
+523,,,,,,,,,,,,
+524,,,,,,,,,,,,
+525,,,,,,,,,,,,
+526,,,,,,,,,,,,
+527,,,,,,,,,,,,
+528,,,,,,,,,,,,
+529,,,,,,,,,,,,
+530,,,,,,,,,,,,
+531,,,,,,,,,,,,
+532,,,,,,,,,,,,
+533,,,,,,,,,,,,
+534,,,,,,,,,,,,
+535,,,,,,,,,,,,
+536,,,,,,,,,,,,
+537,,,,,,,,,,,,
+538,,,,,,,,,,,,
+539,,,,,,,,,,,,
+540,,,,,,,,,,,,
+541,,,,,,,,,,,,
+542,,,,,,,,,,,,
+543,,,,,,,,,,,,
+544,,,,,,,,,,,,
+545,,,,,,,,,,,,
+546,,,,,,,,,,,,
+547,,,,,,,,,,,,
+548,,,,,,,,,,,,
+549,,,,,,,,,,,,
+550,,,,,,,,,,,,
+551,,,,,,,,,,,,
+552,,,,,,,,,,,,
+553,,,,,,,,,,,,
+554,,,,,,,,,,,,
+555,,,,,,,,,,,,
+556,,,,,,,,,,,,
+557,,,,,,,,,,,,
+558,,,,,,,,,,,,
+559,,,,,,,,,,,,
+560,,,,,,,,,,,,
+561,,,,,,,,,,,,
+562,,,,,,,,,,,,
+563,,,,,,,,,,,,
+564,,,,,,,,,,,,
+565,,,,,,,,,,,,
+566,,,,,,,,,,,,
+567,,,,,,,,,,,,
+568,,,,,,,,,,,,
+569,,,,,,,,,,,,
+570,,,,,,,,,,,,
+571,,,,,,,,,,,,
+572,,,,,,,,,,,,
+573,,,,,,,,,,,,
+574,,,,,,,,,,,,
+575,,,,,,,,,,,,
+576,,,,,,,,,,,,
+577,,,,,,,,,,,,
+578,,,,,,,,,,,,
+579,,,,,,,,,,,,
+580,,,,,,,,,,,,
+581,,,,,,,,,,,,
+582,,,,,,,,,,,,
+583,,,,,,,,,,,,
+584,,,,,,,,,,,,
+585,,,,,,,,,,,,
+586,,,,,,,,,,,,
+587,,,,,,,,,,,,
+588,,,,,,,,,,,,
+589,,,,,,,,,,,,
+590,,,,,,,,,,,,
+591,,,,,,,,,,,,
+592,,,,,,,,,,,,
+593,,,,,,,,,,,,
+594,,,,,,,,,,,,
+595,,,,,,,,,,,,
+596,,,,,,,,,,,,
+597,,,,,,,,,,,,
+598,,,,,,,,,,,,
+599,,,,,,,,,,,,
+600,,,,,,,,,,,,
+601,,,,,,,,,,,,
+602,,,,,,,,,,,,
+603,,,,,,,,,,,,
+604,,,,,,,,,,,,
+605,,,,,,,,,,,,
+606,,,,,,,,,,,,
+607,,,,,,,,,,,,
+608,,,,,,,,,,,,
+609,,,,,,,,,,,,
+610,,,,,,,,,,,,
+611,,,,,,,,,,,,
+612,,,,,,,,,,,,
+613,,,,,,,,,,,,
+614,,,,,,,,,,,,
+615,,,,,,,,,,,,
+616,,,,,,,,,,,,
+617,,,,,,,,,,,,
+618,,,,,,,,,,,,
+619,,,,,,,,,,,,
+620,,,,,,,,,,,,
+620,,,,,,,,,,,,
+621,,,,,,,,,,,,
+622,,,,,,,,,,,,
+623,,,,,,,,,,,,
+623,,,,,,,,,,,,
+624,,,,,,,,,,,,
+625,,,,,,,,,,,,
+626,,,,,,,,,,,,
+627,,,,,,,,,,,,
+628,,,,,,,,,,,,
+629,,,,,,,,,,,,
+630,,,,,,,,,,,,
+631,,,,,,,,,,,,
+632,,,,,,,,,,,,
+633,,,,,,,,,,,,
+634,,,,,,,,,,,,
+635,,,,,,,,,,,,
+636,,,,,,,,,,,,
+637,,,,,,,,,,,,
+638,,,,,,,,,,,,
+639,,,,,,,,,,,,
+640,,,,,,,,,,,,
+641,,,,,,,,,,,,
+642,,,,,,,,,,,,
+643,,,,,,,,,,,,
+644,,,,,,,,,,,,
+645,,,,,,,,,,,,
+646,,,,,,,,,,,,
+647,,,,,,,,,,,,
+648,,,,,,,,,,,,
+649,,,,,,,,,,,,
+650,,,,,,,,,,,,
+651,,,,,,,,,,,,
+652,,,,,,,,,,,,
+653,,,,,,,,,,,,
+654,,,,,,,,,,,,
+655,,,,,,,,,,,,
+656,,,,,,,,,,,,
+657,,,,,,,,,,,,
+658,,,,,,,,,,,,
+659,,,,,,,,,,,,
+660,,,,,,,,,,,,
+661,,,,,,,,,,,,
+662,,,,,,,,,,,,
+663,,,,,,,,,,,,
+664,,,,,,,,,,,,
+665,,,,,,,,,,,,
+666,,,,,,,,,,,,
+667,,,,,,,,,,,,
+668,,,,,,,,,,,,
+669,,,,,,,,,,,,
+670,,,,,,,,,,,,
+671,,,,,,,,,,,,
+672,,,,,,,,,,,,
+673,,,,,,,,,,,,
+674,,,,,,,,,,,,
+675,,,,,,,,,,,,
+676,,,,,,,,,,,,
+677,,,,,,,,,,,,
+678,,,,,,,,,,,,
+679,,,,,,,,,,,,
+680,,,,,,,,,,,,
+681,,,,,,,,,,,,
+682,,,,,,,,,,,,
+683,,,,,,,,,,,,
+684,,,,,,,,,,,,
+685,,,,,,,,,,,,
+686,,,,,,,,,,,,
+687,,,,,,,,,,,,
+688,,,,,,,,,,,,
+689,,,,,,,,,,,,
+690,,,,,,,,,,,,
+691,,,,,,,,,,,,
+692,,,,,,,,,,,,
+693,,,,,,,,,,,,
+694,,,,,,,,,,,,
+695,,,,,,,,,,,,
+696,,,,,,,,,,,,
+697,,,,,,,,,,,,
+698,,,,,,,,,,,,
+699,,,,,,,,,,,,
+700,,,,,,,,,,,,
+701,,,,,,,,,,,,
+702,,,,,,,,,,,,
+703,,,,,,,,,,,,
+704,,,,,,,,,,,,
+705,,,,,,,,,,,,
+706,,,,,,,,,,,,
+706,,,,,,,,,,,,
+707,,,,,,,,,,,,
+708,,,,,,,,,,,,
+709,,,,,,,,,,,,
+710,,,,,,,,,,,,
+711,,,,,,,,,,,,
+712,,,,,,,,,,,,
